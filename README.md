@@ -1,4 +1,5 @@
 # PLANtIT 🌱
+### https://elice-kdt-2nd-team3.koreacentral.cloudapp.azure.com
 
 - 베란다 농부(팜린이)를 위한 종합 가드닝 솔루션 서비스
   - [메인] 질병이 발생한 작물의 사진을 업로드 하면, AI가 학습한 데이터를 이용하여 진단을 내려주는 서비스
